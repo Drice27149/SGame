@@ -26,15 +26,15 @@
 
 ### 技术要点
 
-* 人物动画
-* 物品拾取
-* 枪械与近战武器的实现
-* 敌人AI
+* [人物动画](#head1)
+* [物品拾取](#head2)
+* [枪械与近战武器的实现](#head3)
+* [敌人AI](#head4)
 
 ### 遇到的问题与解决方法
 
-* 射不准问题
-* 逃离问题
+* [射不准问题](#head1)
+* [逃离问题](#head2)
 
 ### 参考资料
 
@@ -44,44 +44,42 @@
 
 [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1)
 
-* ### 人物动画
+* ## <span id="head1">人物动画</span>
 
-![人物动画](C:\Users\Drice\Desktop\pics\人物动画.png)
+![人物动画](./pics/人物动画.png)
 
-* ### 物品拾取
+* ## <span id="head2">物品拾取</span>
 
-![物体拾取](C:\Users\Drice\Desktop\pics\物体拾取.png)
+![物体拾取](./pics/物体拾取.png)
 
-* ### 枪械与近战武器的实现
+* ## <span id="head3">枪械与近战武器的实现</span>
 
-![冲锋](C:\Users\Drice\Desktop\pics\冲锋.png)
+![冲锋](./pics/冲锋.png)
 
-![狙击](C:\Users\Drice\Desktop\pics\狙击.png)
+![狙击](./pics/狙击.png)
 
+![近战](./pics/近战.png)
 
+* ## <span id="head4">敌人AI</span>
 
-![近战](C:\Users\Drice\Desktop\pics\近战.png)
+![AI](./pics/AI.png)
 
-* ### 敌人AI
+![哨兵](./pics/哨兵.png)
 
-![AI](C:\Users\Drice\Desktop\pics\AI.png)
+![巡逻](./pics/巡逻.png)
 
-![哨兵](C:\Users\Drice\Desktop\pics\哨兵.png)
+![Boss](./pics/Boss.png)
 
-![巡逻](C:\Users\Drice\Desktop\pics\巡逻.png)
+* ## <span id="head5">射不准问题</span>
 
-![Boss](C:\Users\Drice\Desktop\pics\Boss.png)
+![射不准](./pics/射不准.png)
 
-* ### 射不准问题
+![射不准A](./pics/射不准A.png)
 
-![射不准](C:\Users\Drice\Desktop\pics\射不准.png)
+![射不准B](./pics/射不准B.png)
 
-![射不准A](C:\Users\Drice\Desktop\pics\射不准A.png)
+* ## <span id="head5">逃离问题</span>
 
-![射不准B](C:\Users\Drice\Desktop\pics\射不准B.png)
+![逃离](./pics/逃离.png)
 
-* ### 逃离问题
-
-![逃离](C:\Users\Drice\Desktop\pics\逃离.png)
-
-![逃离B](C:\Users\Drice\Desktop\pics\逃离B.png)
+![逃离B](./pics/逃离B.png)
